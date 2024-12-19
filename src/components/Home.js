@@ -21,7 +21,7 @@ function Home() {
             <img src={leetcodeLogo} alt="LeetCode" style={{ width: '35px', height: '35px' }} />
           </a>
         </div>
-        <a href="https://drive.google.com/drive/folders/1kcKOzck0UJnZ_yEO1mg9LRPh05SsgjMY" download="Durga Preetham Kasarla.pdf" className="btn btn-resume">Download Resume</a>
+        <a href="https://drive.google.com/file/d/1Mgw5EOgF0orW3MLMNeo_48jD2zo82p0a/view?usp=sharing" download="Durga Preetham Kasarla.pdf" className="btn btn-resume">Download Resume</a>
       </div>
     </section>
   );
