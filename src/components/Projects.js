@@ -10,12 +10,12 @@ function Projects() {
       description: "Developed a machine learning model using TensorFlow to detect whether an individual is wearing glasses, achieving 99.8% accuracy. And also, created a user interface with Gradio to allow users to upload photos and receive real-time detection results. "
     },
     {
-      title: "Apple Stock Price Prediction",
-      description: "Developed a machine learning model for predicting Apple stock prices using Linear Regression, leveraging features such as open, close, high, low, and volume. Achieved accurate predictions of the Adj Close variable, showcasing proficiency in financial data analysis and predictive modeling."
+      title: "Weather Prediction",
+      description: " Developed a machine learning model for Weather Prediction using Python, which predicts rain based on input features like temperature, wind speed, and humidity"
     },
     {
-      title: "Mental Math using C",
-      description: "I have developed a project named “Mental Math” that offers a user-friendly interface with options for addition, subtraction, multiplication, and division, dynamically generating random arithmetic questions to enhance users’ math skills, acknowledging correct answers and displaying the correct solution for incorrect responses, contributing to a gamified learning experience within the application."
+      title: "Mini-Mobile Interface",
+      description: "Developed a mini Mobile Interface application using C language, merging multiple functionalities and simulating a mobile interface with key-based access to apps."
     },
     {
       title: "Literacy Rate Analysis",
